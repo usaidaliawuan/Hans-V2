@@ -23,26 +23,26 @@
     
     Hans-V2 can help you pass the time with the following fun games:
     
-        <li><strong>Bot Games</strong></li>
-        <li><strong>Connect Four Game</strong></li>
-        <li><strong>Tic Tac Toe</strong></li>
-        <li><strong>Number Guessing Game</strong></li>
-        <li><strong>Word Chain Game</strong></li>
-        <li><strong>Hidden Card Game</strong></li>
-        <li><strong>Rolling Dice</strong></li>
-        <li><strong>Character Guessing Game</strong></li>
-        <li><strong>Capital of City Finding</strong></li>
-    </ul>
+        <strong>Bot Games</strong>
+        <strong>Connect Four Game</strong>
+        <strong>Tic Tac Toe</strong></li>
+        <strong>Number Guessing Game</strong></li>
+        <strong>Word Chain Game</strong></li>
+        <strong>Hidden Card Game</strong></li>
+        <strong>Rolling Dice</strong></li>
+        <strong>Character Guessing Game</strong></li>
+        <strong>Capital of City Finding</strong></li>
     
-    <h2>Video Downloading</h2>
+    
+    <strong>Video Downloading</strong>
     <p>Hans-V2 also includes features for downloading videos from a range of platforms:</p>
-    <ul>
+    
         <li>YouTube</li>
         <li>Facebook</li>
         <li>Instagram</li>
         <li>TikTok</li>
         <li>And more!</li>
-    </ul>
+    
     
     <h2>Important Note</h2>
     <p>Hans-V2 includes powerful functionalities, including the ability to download videos and interact with various online platforms. However, it is crucial to use the bot responsibly:</p>
