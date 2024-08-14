@@ -6668,28 +6668,28 @@ case 'blur':
 ┌┤✑  ${xeonytimewisher} 😄${readmore} 
 │└────────────┈ ⳹
 │
-└─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 
-│𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│𝗕𝗼𝘁 : ${botname}
-│𝗢𝘄𝗻𝗲𝗿 𝗡𝗼: +${ownernumber}
-│𝗣𝗿𝗲𝗳𝗶𝘅 :  [ ${xprefix} ]
-│𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
-│𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
-│𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length} User
-│𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${global.db.data.settings[botNumber].totalhit} Hit
-│𝗧𝗼𝘁𝗮𝗹 𝗖𝗵𝗮𝘁 : ${Object.keys(global.db.data.chats).length} Chat/Gc
+└─ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 
+│𝓢𝓟𝓔𝓔𝓓 : ${latensie.toFixed(4)} miliseconds
+│𝓡𝓤𝓝𝓣𝓘𝓜𝓔 : ${runtime(process.uptime())}
+│𝓑𝓞𝓣 : HANS-V2
+│𝓞𝓦𝓝𝓔𝓡 𝓝°: +${ownernumber}
+│𝓟𝓡𝓔𝓕𝓘𝓧 :  [ ${xprefix} ]
+│𝓜𝓞𝓓𝓔 : ${XeonBotInc.public ? 'Public' : `Self`}
+│𝓗𝓞𝓢𝓣 𝓝𝓐𝓜𝓔 : ${os.hostname()}
+│𝓟𝓛𝓐𝓣𝓕𝓞𝓡𝓜 : ${os.platform()}
+│𝓣𝓞𝓣𝓐𝓛 𝓤𝓢𝓔𝓡 : ${Object.keys(global.db.data.users).length} User
+│𝓣𝓞𝓣𝓐𝓛 𝓗𝓘𝓣 : ${global.db.data.settings[botNumber].totalhit} Hit
+│𝓣𝓞𝓣𝓐𝓛 𝓒𝓗𝓐𝓣 : ${Object.keys(global.db.data.chats).length} Chat/Gc
 │
-└─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊
+└─ 𝐔𝐒𝐄𝐑 𝐈𝐍𝐅𝐎
 │𝗡𝗮𝗺𝗲 : ${pushname}
 │𝗡𝘂𝗺𝗯𝗲𝗿 : +${me.split('@')[0]}
 │𝗟𝗶𝗺𝗶𝘁 : ${a.limit}
 │𝗧𝗶𝘁𝗹𝗲 : ${a.title ? a.title : '-'}
 │𝗦𝗲𝗿𝗶𝗮𝗹: ${a.serialNumber}
 │
-└─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
-│??𝗶𝗺𝗲 : ${xtime}
+└─ 𝐓𝐈𝐌𝐄 𝐈𝐍𝐅𝐎 
+│T𝗶𝗺𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
 └┬───────────────── ⳹
    │✑  Please Type The *MENU*
@@ -6782,7 +6782,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v7') {
                     XeonBotInc.sendMessage(m.chat, {
                         document: {
-                           url: 'https://i.ibb.co/2W0H9Jq/avatar-contact.png'
+                           url: 'https://i.ibb.co/4FzFMp6/hans.jpg'
                         },
                         caption: xmenu_oh,
                         mimetype: 'application/zip',
@@ -6811,7 +6811,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4FzFMp6/hans.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -6893,7 +6893,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v7') {
                     XeonBotInc.sendMessage(m.chat, {
                         document: {
-                           url: 'https://i.ibb.co/2W0H9Jq/avatar-contact.png'
+                           url: 'https://i.ibb.co/4FzFMp6/hans.jpg'
                         },
                         caption: xmenu_oh,
                         mimetype: 'application/zip',
@@ -6922,7 +6922,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4FzFMp6/hans.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7004,7 +7004,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v7') {
                     XeonBotInc.sendMessage(m.chat, {
                         document: {
-                           url: 'https://i.ibb.co/2W0H9Jq/avatar-contact.png'
+                           url: 'https://i.ibb.co/4FzFMp6/hans.jpg'
                         },
                         caption: xmenu_oh,
                         mimetype: 'application/zip',
@@ -7033,7 +7033,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4FzFMp6/hans.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7115,7 +7115,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v7') {
                     XeonBotInc.sendMessage(m.chat, {
                         document: {
-                           url: 'https://i.ibb.co/2W0H9Jq/avatar-contact.png'
+                           url: 'https://i.ibb.co/4FzFMp6/hans.jpg'
                         },
                         caption: xmenu_oh,
                         mimetype: 'application/zip',
@@ -7144,7 +7144,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4FzFMp6/hans.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -7226,7 +7226,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v7') {
                     XeonBotInc.sendMessage(m.chat, {
                         document: {
-                           url: 'https://i.ibb.co/2W0H9Jq/avatar-contact.png'
+                           url: 'https://i.ibb.co/4FzFMp6/hans.jpg'
                         },
                         caption: xmenu_oh,
                         mimetype: 'application/zip',
@@ -7255,7 +7255,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://i.ibb.co/4FzFMp6/hans.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
