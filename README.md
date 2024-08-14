@@ -9,6 +9,23 @@
     <img alt="HANS-TECH" height="400" src="https://i.ibb.co/4FzFMp6/hans.jpg">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/HaroldMth/Hans-bug-bot/fork">
+    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-V3?label=Fork&style=social">
+    
+    
+  <a href="https://github.com/HaroldMth/Hans-V3/stargazers"> 
+    <img src="https://img.shields.io/github/stars/HaroldMth?style=social">
+  </a>
+
+  <a href="https://wa.me/237696900612" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <p align="center">
+<a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
+</p>
+<a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
 # BOT GAMES 
 ```
@@ -64,3 +81,10 @@ npm install
 ```bash
 npm start
 ```
+
+
+
+
+### CREDITS 
+HANS TECH
+XEON INC.
