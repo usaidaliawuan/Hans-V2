@@ -67,7 +67,6 @@
             max-width: 100%;
             height: auto;
             border-radius: 8px;
-            margin-top: 0; /* Ensure no extra margin on top */
         }
     </style>
 </head>
@@ -93,14 +92,14 @@
 
     <div class="contact">
         <a href="https://wa.me/237696900612" target="_blank">
-            <img alt="Contact Owner" src="https://img.shields.io/badge/ CONTACT OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+            <img alt="Contact Owner" src="https://img.shields.io/badge/ CONTACT_OWNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a>
         <p>Contact the owner</p>
     </div>
 
     <div class="support">
         <a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O" target="_blank">
-            <img alt="WhatsApp Support Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+            <img alt="WhatsApp Support Channel" src="https://img.shields.io/badge/ WhatsApp_Support_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a>
         <p>Join our support channel</p>
     </div>
