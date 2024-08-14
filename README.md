@@ -21,8 +21,8 @@
     <h1>Hans-V2 README</h1>
     <p>Welcome to the official repository for Hans-V2! Hans-V2 is an advanced bot designed to provide entertainment through various games and offer functionalities for downloading videos from multiple platforms. Below is an overview of its capabilities and important notes on its usage.</p>
     
-    <p>Hans-V2 can help you pass the time with the following fun games:</p>
-    <ul>
+    Hans-V2 can help you pass the time with the following fun games:
+    
         <li><strong>Bot Games</strong></li>
         <li><strong>Connect Four Game</strong></li>
         <li><strong>Tic Tac Toe</strong></li>
