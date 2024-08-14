@@ -1,4 +1,4 @@
-<h1 align="center"><strong>𝑯𝑨𝑵𝑺-𝑩𝑼𝑮-𝑩𝑶𝑻</strong></h1>
+<h1 align="center"><strong> ミ★𝐇𝐀𝐍𝐒-𝐕𝟐★彡</strong></h1>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HANS+V2+BOT+BEST+WA+BOT;CREATED+BY+HANS+TECH;" alt="Typing SVG" />
@@ -15,13 +15,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hans-V2 README</title>
+    <title> ミ★𝐇𝐀𝐍𝐒-𝐕𝟐★彡</title>
 </head>
 <body>
     <h1>Hans-V2 README</h1>
     <p>Welcome to the official repository for Hans-V2! Hans-V2 is an advanced bot designed to provide entertainment through various games and offer functionalities for downloading videos from multiple platforms. Below is an overview of its capabilities and important notes on its usage.</p>
     
-    <h2>Entertainment Games</h2>
     <p>Hans-V2 can help you pass the time with the following fun games:</p>
     <ul>
         <li><strong>Bot Games</strong></li>
