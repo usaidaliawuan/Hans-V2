@@ -6692,27 +6692,27 @@ case 'blur':
 │T𝗶𝗺𝗲 : ${xtime}
 │𝗗𝗮𝘁𝗲 : ${xdate}
 └┬───────────────── ⳹
-   │✑  Please Type The *MENU*
-   │✑  Given *BELOW*
+   │☞  Please Type The *MENU*
+   │☞  Given *BELOW*
 ┌└─────────────┈ ⳹
-│❏${xprefix}allmenu
-│❏${xprefix}downloadmenu
-│❏${xprefix}funmenu
-│❏${xprefix}aimenu
-│❏${xprefix}groupmenu
-│❏${xprefix}ownermenu
-│❏${xprefix}photooxymenu
-│❏${xprefix}ephoto360menu
-│❏${xprefix}makermenu
-│❏${xprefix}animemenu
-│❏${xprefix}nsfwmenu
-│❏${xprefix}randomphotomenu
-│❏${xprefix}randomvideomenu
-│❏${xprefix}stickermenu
-│❏${xprefix}databasemenu
-│❏${xprefix}stalkermenu
-│❏${xprefix}bugmenu
-│❏${xprefix}othermenu
+│✞${xprefix}allmenu
+│✞${xprefix}downloadmenu
+│✞${xprefix}funmenu
+│✞${xprefix}aimenu
+│✞${xprefix}groupmenu
+│✞${xprefix}ownermenu
+│✞${xprefix}photooxymenu
+│✞${xprefix}ephoto360menu
+│✞${xprefix}makermenu
+│✞${xprefix}animemenu
+│✞${xprefix}nsfwmenu
+│✞${xprefix}randomphotomenu
+│✞${xprefix}randomvideomenu
+│✞${xprefix}stickermenu
+│✞${xprefix}databasemenu
+│✞${xprefix}stalkermenu
+│✞${xprefix}bugmenu
+│✞${xprefix}othermenu
 └─────────────────┈ ⳹`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
