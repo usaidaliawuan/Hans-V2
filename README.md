@@ -48,6 +48,7 @@ pkg update && pkg upgrade -y
 pkg install -y python python2 bash libwebp git nodejs ffmpeg wget imagemagick
 ```
 # Clone the Hans-V2 repository
+```bash
 git clone https://github.com/HaroldMth/Hans-V2
 ```
 # Navigate to the project directory
