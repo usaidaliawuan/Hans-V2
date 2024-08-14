@@ -11,10 +11,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/HaroldMth/Hans-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-V3?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-V2?label=Fork&style=social">
     
     
-  <a href="https://github.com/HaroldMth/Hans-V3/stargazers"> 
+  <a href="https://github.com/HaroldMth/Hans-V2/stargazers"> 
     <img src="https://img.shields.io/github/stars/HaroldMth?style=social">
   </a>
 
