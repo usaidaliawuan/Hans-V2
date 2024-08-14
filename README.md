@@ -21,27 +21,7 @@
     <h1>Hans-V2 README</h1>
     <p>Welcome to the official repository for Hans-V2! Hans-V2 is an advanced bot designed to provide entertainment through various games and offer functionalities for downloading videos from multiple platforms. Below is an overview of its capabilities and important notes on its usage.</p>
     
-    Hans-V2 can help you pass the time with the following fun games:
-    
-        <strong>Bot Games</strong>
-        <strong>Connect Four Game</strong>
-        <strong>Tic Tac Toe</strong></li>
-        <strong>Number Guessing Game</strong></li>
-        <strong>Word Chain Game</strong></li>
-        <strong>Hidden Card Game</strong></li>
-        <strong>Rolling Dice</strong></li>
-        <strong>Character Guessing Game</strong></li>
-        <strong>Capital of City Finding</strong></li>
-    
-    
-    <strong>Video Downloading</strong>
-    <p>Hans-V2 also includes features for downloading videos from a range of platforms:</p>
-    
-        <li>YouTube</li>
-        <li>Facebook</li>
-        <li>Instagram</li>
-        <li>TikTok</li>
-        <li>And more!</li>
+ 
     
     
     <h2>Important Note</h2>
@@ -55,7 +35,7 @@
     <h2>Deployment Instructions</h2>
     <p>To deploy Hans-V2 on Termux or a VPS, you can use the following Bash script:</p>
     <pre><code>
-#!/bin/bash
+
 
 # Script to set up and deploy Hans-V2 on Termux or VPS
 
