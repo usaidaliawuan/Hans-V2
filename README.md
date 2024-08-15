@@ -15,7 +15,7 @@
     
     
   <a href="https://github.com/HaroldMth/Hans-V2/stargazers"> 
-    <img src="https://img.shields.io/github/stars/HaroldMth?style=social">
+    <img src="https://img.shields.io/github/stars/HaroldMth/Hans-V2?style=social">
   </a>
 
   <a href="https://wa.me/237696900612" target="_blank">
