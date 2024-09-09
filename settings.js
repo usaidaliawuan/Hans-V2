@@ -4,7 +4,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +923118915268
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -20,7 +20,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'HANS V2' //ur bot name
-global.ownernumber = '237696900612' //ur owner number
+global.ownernumber = '923118915268' //ur owner number
 global.ownername = 'HANS-V2' //ur owner name
 global.websitex = "https://youtube.com/HansTech0"
 global.wagc = "https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O"
@@ -29,9 +29,9 @@ global.wm = "HANS_TECH."
 global.botscript = 'https://github.com/HaroldMth/Hans-V2' //script link
 global.packname = "Sticker By"
 global.author = "HANS_TECH"
-global.creator = "237696900612@s.whatsapp.net"
+global.creator = "923118915268@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["237696900612"] // Premium User
+global.premium = ["923118915268"] // Premium User
 global.hituet = 0
 
 //bot sett
